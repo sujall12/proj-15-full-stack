@@ -2,7 +2,7 @@
 
 ## By Sujal
 
-## [Link for Project 15](https://proj-15-webpage-full-stack.netlify.app/) 
+## [Link for Project 15](https://proj-15-mobile-responsive.netlify.app/) 
 
 ![project 15 completed](./proj-15.png)
 
@@ -16,4 +16,4 @@
 - I learned about the properties of positions of elements in the HTML and CSS.
 - I learned about linear gradiant property
 
-## This project took almost 5 hours to complete.
+## This project took almost 5.30 hours to complete.
